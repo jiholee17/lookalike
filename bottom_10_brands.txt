@@ -1,0 +1,11 @@
+brand	avg_rating
+Overose	2.84845
+Good Dye Young	3.06205
+Christophe Robin	3.154766667
+Kopari	3.25
+SIMIHAZE BEAUTY	3.323914286
+BERDOUES	3.4286
+Eight & Bob	3.5
+Susteau	3.514425
+NuFACE	3.53815
+FORVR Mood	3.597808696
